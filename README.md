@@ -1,4 +1,4 @@
-content = """# Hi there, I'm Origaska 👋
+# Hi there, I'm Origaska 👋
 
 ## 👨‍🏫 About Me
 
