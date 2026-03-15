@@ -43,10 +43,3 @@
 
 > *"El código que escribes enseña, la infraestructura que construyes sostiene, y el sistema que liberas transforma."*
 
----
-
-
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(content)
-
-print("README.md creado exitosamente")
